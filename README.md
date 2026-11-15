@@ -2,6 +2,9 @@
 
 👋 Hey, I'm Danish!
 
+
+https://readme-typing-svg.herokuapp.com/demo/?font=fire+core+&weight=500&color=F7195D&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!;Java+Backend+Developer+%7C+Java+Full+Stack+Developer+%7C+Java+DevOps+Engineer;+Java+Full+Stack+Developer+%7C+Java+DevOps+Engineer;+Strong+foundation+in+Core+Java%2C+OOP%2C+Collections%2C+Streams%2C+and+Multithreading.
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fire+core+&weight=500&size=18&pause=1000&color=F7195D&width=435&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!;Java+Backend+Developer+%7C+Java+Full+Stack+Developer+%7C+Java+DevOps+Engineer;+Java+Full+Stack+Developer+%7C+Java+DevOps+Engineer;+Strong+foundation+in+Core+Java%2C+OOP%2C+Collections%2C+Streams%2C+and+Multithreading.)](https://git.io/typing-svg)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fire+core+&weight=500&size=18&pause=1000&color=F7195D&width=435&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!;Java+Backend+Developer+%7C+Java+Full+Stack+Developer+%7C+Java+DevOps+Engineer;+Java+Full+Stack+Developer+%7C+Java+DevOps+Engineer;+Strong+foundation+in+Core+Java%2C+OOP%2C+Collections%2C+Streams%2C+and+Multithreading." alt="Typing SVG" /></a>
  
