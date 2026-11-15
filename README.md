@@ -4,20 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MOHAMMAD DANISH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF4500 &center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+GITHUB+PROFILE!;I'M+MOHAMMAD+DANISH;JAVA+FULL+STACK+DEVELOPER;JAVA+BACKEND+DEVELOPER;JAVA+DEVOPS+ENGINEER;JAVA+AWS+DEVELOPER;Core +Java+
-+OOP;Collections+Streams+Multithreading
-;JDBC+Servlets+JSP;
-Spring +Framework
-+Spring +Boot
-+Spring +MVC;
-Spring +Security+
-Spring;Data+JPA
-+Hibernate
-;Microservices +Architecture;
-RESTful +APIs
-+JWT +Authentication
-+OAuth 2.0
-;Database+GraphQL+Mysql+;ALWAYS+LEARNING+NEW+TECHNOLOGIES;TURNING+IDEAS+INTO+REALITY!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=FF4500 &center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+GITHUB+PROFILE!;I'M+MOHAMMAD+DANISH;JAVA+FULL+STACK+DEVELOPER;JAVA+BACKEND+DEVELOPER;JAVA+DEVOPS+ENGINEER;JAVA+AWS+DEVELOPER;Core +Java+OOP;Collections+Streams+Multithreading;JDBC+Servlets+JSP;Spring +Framework+Spring +Boot+Spring +MVC;Spring +Security+Spring;
+Data+JPA+Hibernate;Microservices +Architecture;RESTful +APIs+JWT +Authentication+OAuth 2.0;Database+GraphQL+Mysql+;ALWAYS+LEARNING+NEW+TECHNOLOGIES;TURNING+IDEAS+INTO+REALITY!" alt="Typing SVG" />
 </p>
 
 <p align="center">
