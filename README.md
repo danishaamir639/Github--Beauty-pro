@@ -4,6 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=MOHAMMAD DANISH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
 <p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fire+core+&weight=500&size=18&pause=1000&color=F7195D&width=435&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!;Java+Backend+Developer+%7C+Java+Full+Stack+Developer+%7C+Java+DevOps+Engineer;+Java+Full+Stack+Developer+%7C+Java+DevOps+Engineer;+Strong+foundation+in+Core+Java%2C+OOP%2C+Collections%2C+Streams%2C+and+Multithreading.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fire+core+&weight=500&size=18&pause=1000&color=F7195D&width=435&lines=%F0%9F%91%8B+Welcome+to+My+GitHub+Profile!;Java+Backend+Developer+%7C+Java+Full+Stack+Developer+%7C+Java+DevOps+Engineer;+Java+Full+Stack+Developer+%7C+Java+DevOps+Engineer;+Strong+foundation+in+Core+Java%2C+OOP%2C+Collections%2C+Streams%2C+and+Multithreading." alt="Typing SVG" /></a>
  
 
 <p align="center">
