@@ -3,108 +3,14 @@
 👋 Hey, I'm Danish!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=DANISH&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=18" width="100%" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=WELCOME+TO+MY+GITHUB+PROFILE!;I'M+MOHAMMAD+DANISH;JAVA+FULL+STACK+DEVELOPER;JAVA+BACKEND+DEVELOPER;JAVA+DEVOPS+ENGINEER;JAVA+AWS+DEVELOPER;ALWAYS+LEARNING+NEW+TECHNOLOGIES;TURNING+IDEAS+INTO+REALITY!" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+Love+Building+Projects;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality!" />
-</p>🚀 My Tech Stack & Skills
-☕ Programming Languages
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,c,cpp,bash" />
-</p>
-
-🎨 Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,vite,redux" />
-</p>
-
-⚙️ Java Backend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle,nodejs,express" />
-</p>
-
-🗄️ Database & Storage
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase,sqlite" />
-</p>
-
-🐧 Operating Systems & Scripting
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell" />
-</p>
-
-📦 Version Control & Collaboration
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" />
-</p>
-
-🐳 Containerization & Orchestration
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift" />
-</p>
-
-🔄 CI/CD & Automation
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab,argo" />
-</p>
-
-☁️ Cloud Platforms
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-</p>
-
-🏗️ Infrastructure as Code
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=terraform,ansible" />
-</p>
-
-📊 Monitoring & Observability
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch,kibana" />
-</p>
-
-🔐 DevSecOps & Security
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=sonarqube,vault,linux,docker" />
-</p>
-
-🧪 Testing & API Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=postman,selenium,jest" />
-</p>
-
-🛠️ IDE & Developer Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,visualstudio,github" />
-</p>
-
-🌟 My Core Expertise
-
-<p align="center">
-<img src="https://img.shields.io/badge/Java-Full%20Stack-orange?style=for-the-badge&logo=openjdk" />
-<img src="https://img.shields.io/badge/Spring%20Boot-Backend-6DB33F?style=for-the-badge&logo=springboot" />
-<img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws" />
-<img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes" />
-</p>
-
-<p align="center">
-<b>💻 JAVA FULL STACK DEVELOPER | ☁️ DEVOPS ENTHUSIAST</b>
-</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=danishaamir639&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
