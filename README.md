@@ -23,7 +23,196 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,java,git,github,vscode,mongodb,mysql&perline=6" />
 </p>
+☕ Java Full Stack Development
+💻 Programming Languages
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,bash,c" />
+</p>
+
+🎨 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,bootstrap,tailwind,vite" />
+</p>
+
+HTML5, CSS3, JavaScript ES6+
+TypeScript
+React.js, Angular
+Responsive Web Design
+Bootstrap, Tailwind CSS
+REST API Integration
+⚙️ Java Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,maven,gradle,hibernate" />
+</p>
+
+Core Java
+OOP, Collections, Streams, Multithreading
+JDBC, Servlets, JSP
+Spring Framework
+Spring Boot
+Spring MVC
+Spring Security
+Spring Data JPA
+Hibernate
+Microservices Architecture
+RESTful APIs
+JWT Authentication
+OAuth 2.0
+GraphQL
+🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,firebase" />
+</p>
+
+MySQL
+PostgreSQL
+Oracle Database
+MongoDB
+Redis
+Database Design
+SQL Queries and Optimization
+🧪 Testing & API Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postman,jest" />
+</p>
+
+JUnit 5
+Mockito
+Testcontainers
+Postman
+Swagger / OpenAPI
+Selenium
+Integration Testing
+☁️ DevOps Engineering & Tools
+🐧 Operating Systems & Scripting
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,powershell" />
+</p>
+
+Linux Administration
+Ubuntu
+Shell Scripting
+Bash
+Networking Fundamentals
+SSH
+📦 Version Control & Collaboration
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" />
+</p>
+
+Git
+GitHub
+GitLab
+Branching & Merging
+Pull Requests
+GitHub Actions
+🐳 Containers & Orchestration
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,openshift" />
+</p>
+
+Docker
+Docker Compose
+Kubernetes
+Helm
+Podman
+Container Registries
+Nginx
+🔄 CI/CD Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab" />
+</p>
+
+Jenkins
+GitHub Actions
+GitLab CI/CD
+Argo CD
+Continuous Integration
+Continuous Delivery
+Automated Testing
+Deployment Pipelines
+🏗️ Infrastructure as Code & Configuration
+
+<p>
+<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+</p>
+
+Terraform
+Ansible
+AWS CloudFormation
+Infrastructure Automation
+Configuration Management
+Infrastructure Provisioning
+☁️ Cloud Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+</p>
+
+Amazon Web Services (AWS)
+Microsoft Azure
+Google Cloud Platform (GCP)
+EC2, S3, IAM
+AWS EKS
+AWS RDS
+Cloud Deployment
+📊 Monitoring & Logging
+
+<p>
+<img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch" />
+</p>
+
+Prometheus
+Grafana
+ELK Stack
+Elasticsearch
+Logstash
+Kibana
+Jaeger
+Application Monitoring
+Centralized Logging
+🔐 DevSecOps & Security
+SonarQube
+Trivy
+OWASP Dependency-Check
+Snyk
+HashiCorp Vault
+IAM
+Secrets Management
+Vulnerability Scanning
+🧰 Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,linux,git,github" />
+</p>
+
+IntelliJ IDEA
+Eclipse IDE
+Visual Studio Code
+Maven
+Gradle
+Jira
+Postman
+🚀 My Development Goals
+Build scalable Java Spring Boot applications.
+Develop modern frontend applications.
+Design REST APIs and microservices.
+Automate CI/CD pipelines.
+Containerize applications using Docker.
+Deploy applications using Kubernetes.
+Manage cloud infrastructure using Terraform.
+Monitor applications using Prometheus and Grafana.
+
+Code • Build • Deploy • Automate • Innovate 🚀
 📂 My Projects
 
 Explore my public repositories and discover what I'm building!
